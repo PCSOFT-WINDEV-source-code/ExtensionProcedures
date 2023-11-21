@@ -1,0 +1,226 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Example
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Example
+ identifier : 0x237f8f5c01cd2dd9
+ internal_properties : CAAAAAgAAAB0p9hZXLDbkmgT+Aoe5L7y/SWpiVMFNSIpJhbQY/i4B0X1PmbdwisW5U/jEQho1vA5PW3FvrG53fIu9gwzkYZABvmuIpfTH2U5SPic0DLmUU42pRZfPJDqF919giz91eF2VZwJwTJQTJlK85CEBCsB03TEzl7xi04B4As+e+gxKW01CY1L3hmNTo3wM7M/tCxUOD3zdKEZL2oOmb769cKY6SpluhG8/3CE8C5lJxmuI9MLEX75cwF0PN1zYnCCT7wN2O9yiok1SB2YjEHtonc/WrFaJgcrvNrqePtfJkXPh+q4O0FVpm67yibAhNYOpzJKlkcQxWdCDTd4j8eMl+Nf5ZszJmxDE8jb2ZM2NhsWInKmbsx9pIqJJX48KLhtcFf2rmkIx8J5SMp2jmlD7joJn3+Ef5Sd6z8QyQKXH+BhulkI/Hs1t0ThDhullNT705LPGSBAVYyUENnNBrVzOvP+EXvCGOuNMdTldlB0+nVxX5K4vM7dSc9CHlyHuQsithiFgv2o4+jUC4K1pjV+vG3iyUMncWPBuGHEhZz/wjFy7TAadFru7Ki3Xr2PbOWAiZlDJzyCf7bHOUYyZdre7fxPi7lsP4fWTsBA8IqbfZN8inTo43/3oDoKgdOMKKPZvBePLYNLm1DjzDIR0qA9LC9fm3l0ZoJm3taj2OPwpWa9VUBn/i/RYVrWhp1NQfXOTxxPYOvHMw==
+ properties :
+  width : 900
+  height : 800
+  widthClient : 898
+  heightClient : 768
+  widthMin : 898
+  heightMin : 788
+ controls :
+  -
+    name : STC_TestBackgroundColor
+    identifier : 0x237f8f5c01ce2dd9
+    internal_properties : CAAAAAgAAAAsVAK2jCeqJmKZNTV+flSjICiCD9ZN8dZe9scjLeRICEpCMdRNS4RYXK7BVHnhgMYxz85FcnS/d4/k81Rp1FJ5eR7dsuFuFd2c7ZA4P6G0EQpIMZaH55Mc/oRQyogTWHYf9ZHZgXm9K4WMIkRw0v4UHnVmuNQqaBcCtjJvf1GOVkybC8Nlq+GvWK3CHPPAd6hbfy1kMD2h8eR89Iuv9C27u0V/LpB9RkM+V1CzmqKQplYorNMp5+YApFBAWPu2SmRMmVjl37FpnQJq/X77Mv+3+1aVlhdyXVUYLvUpXDQi2xmpV/Y37FDUwumcad8ibLvnuALnox7DNQFDElk4mea293FJb1+h7U+vZAm2vxW+UwxY5ku3ut5PQR3QHRSMZ5FVPGpvJrJNHA+ltptyDqNv54lttjf4XNH/m2/EN07ut4m3SL+C70PRpHxLDsLv9J/DFYo3v+ErcyETkFu7lGPcfzDqPbjhD4MDVH3CaZfUl7YdLQ==
+    properties :
+     x : 350
+     y : 549
+     width : 287
+     height : 36
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_Create_your_own_functions
+    identifier : 0x237f8f5c01cf2dd9
+    internal_properties : CAAAAAgAAACz+HeryJN5aK34cqO04FWZdLoo7WabhVvg6plLCDxLPioMvnN7rpLa6NRTLTTg8kukMffGRV3xw9vYyKi7kcOE3UnEFPzN3//NiTrtOUtxYcbJdwmzEk0NApNurWnhVFRvYQGRRlzMEtHcO06QVlscIQQjEeSNeg5P8hCkknb6HWYOzOHZlrc/tR9lqAa7g/hojAt+udboXHS75+OyxwncwgjDG9RhKguiN1rvwG0Ne6qm14s+843mOsrwC39Jqi7S/RfWLqT4eBjmv1B8dKCadqhv+LuEv7ytGhR15yuOupARSp3gJVX3YqBUVGuQfVmK5M3qb0cw520/web1TwHTXzIkeK/ajqdnNYnjd4oJxUfVskKkq29Ny3FktLuitcp+Hs2HDs2WmqSOaObLfHan+nNd8Z3qhoPzGR51TjVkPzfKpjK6H9Te4AzIbtaHWyelXiD3hKBobTasDW5q75ou5keJ/gz709Vmj8G9oIHJNbaUAYmjek6Whr+g5Kk3/VChCDF6ZzGhTN4ROuew+jfGJzIldSi/6p2ELk9qoV9MkAF6seqJ61M56yAJKIClyg0sAYcM9quZKo/VegdNDE3javGlH5rIjvUlFxHk72+39DZ8BA6qdAjaWrE3PgAR3pBgjUsgTD1WzYGpM1VhV0Wyj2n7Q8ZglPvT/MpwzZkuMn5CVxYLMRV7CIcZqSxh6oOv6vSnC1Pcux/BU0tif28TCmzzb1yssbvIY8zGI61DlobRG4yj/Efoy2gXu8/0umoy13pm2OL85Pjl7uiUhZ5WasgV2LRaHAZWW0lCYCdtKhkYh/bPNv/N3HeoGs3zAiBr5mOfPOuZ0Xt7pBzm5XJhBOvDrOm+du8rRJLlgAEKOpiebFPSn+L7l8XOepXcKR7Lxl5Dequ3UX3xu2UxPAdEfyw+zKxGELSck13P/qVDGagwtQB8KrFLKAxf6i/9ibj4sxebopNvkhG29u/O9nZmiyt37d8PbcASR6QYnJLr3LWtCMsDv3ORhfEvcODzfx3ZYDhcfpHjlXJmkXM0cm/Rsvcwn7bZzoGRXpsFNGZbFwAlkEkvcX1gbzoJImPFlNpNN4BvVtWr552Sqg==
+    properties :
+     width : 900
+     height : 222
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : STC_Case_1
+    identifier : 0x237f8f5c01d02dd9
+    internal_properties : CAAAAAgAAACceRaczszi67wHfXEYY/wELxHWujEaJ0PEv0n/XlfzCmO1KGd4jrDyIaBmEhMoLxhn8OnLAxiGhVbXE6obwnaRESQHwh+vj+xUFq5sGoh5M2sKaqcW7hkbRGvB41XhdLT4XUHfh6EACTa5if/QAKyBAhLkHqutzhGOMaREN1I0HXq5nMa9XzGRgeXrxpZsVSSftGl4T6BLOrZVJNc4pyA5PKpu5IQxiqEhK41cUHb+vdekvwZ+tNKzcvVGYJTO/JuW7tWtkO2qvMMnjWQZkctDACbP0zfKFuz1Zzd1sjVSXpnVcbm46gOrP6WhAQfXb1f9VfrG2KmW/6jgU9e19+bPDd7s6DdVuQkePMUgU9WGcrXLVPsLAKcFlyGq29EnrFAxeRcMS/hd6FtxAhF7l2FY3gF6qFxtk4H3FCMTxuFpB40psUJWlVIv2YFYuvUEh393DxNZh4JBzkUmBfXCWX9KdzFziNAn8WZ38i/jnszepy0t4DHQrM40hZaaewtg98gPOBSTp5nh5NLUy192sBB1mIaO0MlvwUvML+cqg1ScQ+W4/SOgERO5vxYCimWNCfEiXRjQpX/xyigl6A1mJJ9KOcSKef2jIbZPp1kOIZHmbolQum8rHSmxzYw198h2xMhBTYHguNAAPdBZm4AoRihbNZWRuQt/kozVwHtU0T4GI/2t9l56Sn4JYc6/uToMZ0EpIGDxGEHtLtnqbN6sQ5iBh/kz04snu28EfmCr1WaOI72izzZeqkJlC3CQiYAImCu7FuM0z2Szuu/GdFlOhs+9MFXly2UInt9dCuu5b1Mr7a6Xi2i8BV9AewEkBoF+GD9R5TYhsg5I1/H5V+mr0nsFzNgpsW2oBWbwOmgZ/5G7cp9y32T260vr2Vv31ey9vql8c23j96HY3VeEsvcHo/QZitV79xKpXqV6MA5xr7kkJKhCOoLwUIICTiRVCz131T5N9Ols4SPPPmc2R1FPfjr7KJrHj5QBxDnbHrUyjdsLKQkr6mySu2+4RFhF57wM3VTbQzG/TI4k/bUq1oi5FQRXAiF32Sz1fYw=
+    properties :
+     x : 6
+     y : 228
+     width : 886
+     height : 138
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_Test_2
+    identifier : 0x237f8f5c01d12dd9
+    internal_properties : CAAAAAgAAAC1Kk5rSoVePflu21MMnQdHXqYvwFsVzcivF+hYZ4/JLmB7EO79T9bRNwXOK8SyS8Um68qbyZsQIt3JR55xq7dHx9zZnDsZyD32AF0VXgk+Q0n6ZHT+7fmbqheLT5OstPdf9SJpBFyC76Ia9zSTMgiFC7g0jroTHhFyZHcWfXJjOLOYafbIte2UIzZsy6n7/XbMvfDvsWxWiMvStHQPZl775R4U7FUXZUoVEBi26AUjCssfNwvtuIyS5C/1xoJsUORRLx0cj9tdn53hrqCEegXd4WJsyJ2ehK9boFRo2rRWEOyy9oirZ2YjbHVeSWydRg9tAfNbggy2cpitZGiStYRmT/+fJcGVyMWud8GSuPDkKpycrFDxSzP7x84jYuyrjEJCLNScaEf8I6mtdBKHhr/VOD+GkPaJg6ZBmsGmMq1qwIV4WgNGLj5CB7qIR6Gi0DtTrTvgvec/TuIcADJwnjP/U2ugu0mEeD8dzD3pRFBmSb6KHBXJI2QkZVSbdMscg8m79TjYW2SPiB36HDcmbllX5PsJRDta1xH5XV3jUDNylYcfJzEl1SY0CZU5JsUDmIGwFMFPqc14IFXyQLJDwWd5M0VpCSqV7aiSceylKGrMz7cn+ROyawXHd8QmfwfmuCCFUeWaEZLTqLAjmw4mivx8IPdxcbWtTwekZQNOE67HbNwVFSQBNHCxAFw3tED50KGoST2ud2/iecAn+nhPOwxAWCQ7nBkr0Zz9WgQ51a87UfuTpL7VhwU0pRgO8NZqZYJZDkMZhqg4ymxsMF2FRz3hu61Z4PuxkMSOw6MUR5HFPvea3B7ArPFUNnj+AQnHp8+kspFiMskfl6ic9ievzE0vAUz6xIuJK9oes/1hhZwH1QUNF1gXANi4L+jEcy8KF++pi0F8+Bbq4CxOhaBwMMUT3mIaMgjdLS7StbqjFsV0EpbiQZU7maSX+7y0
+    properties :
+     x : 643
+     y : 372
+     width : 249
+     height : 36
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         dtMyDateTime is datetime
+         Info("Long format: " + dtMyDateTime.Format(),"", "Short format: " + dtMyDateTime.Format(True))
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : STC_Case_3
+    identifier : 0x237f8f5c01d22dd9
+    internal_properties : CAAAAAgAAADW1JcIwyzM2em6tKg5VB+nrKVUNhzclQz0luvswjhEQnNm4Z7W4+rTb3nwe8Q3gxczVA3hMQxPFldTF2E1nNfM4Zp2F8rtkXjvNCpwi/Hw0D9sEoTkZbysr+M093PGyoLYZmEutvJHt7htpWYX1Tb8tnSVLqqLuundDde3bPI50cI8rE04H2DFB6bA2/MI83wgIfp5p1lfDMpmwv/DLr6UaWKgoqDZRICFINSsdheFhekpSYHdmGcEn9+Gn1PEJSxhkEf+7d3J+2uCe+/SlRSP+tz4COBphhwRDMazaJhD1is+tXZo4FvjTx2Hu0qkr1+WFzfU8cavEoYCUT3Ook1dKeRgHLS9J/L0R7OyUfTOuKQWGq39gYBCt3yJY8qI23KYiXRQu2HV/HiUZSwlM73X3EO+vmsHh+W5EIkAoE4VMWiQyeGeykD5BzHS9E+4U+JG9eAIzzgW7xUFdZl59is2ulbZat5DfwLShVNAcfSWcoctAHY/2TPsZ4meOz4GeUQgWlwrgVz6m95GFZxme8qimwLMhK62LnpyOpXDwDw+iGg5eJkgj1i1Ky2e35i5ZvZz9+KODGQPevpe5Fh59XdHKNgDE8RL7YyuH2OgG9IjwRV8rZrhC39wXqGWcWL9tZZd3BI0goaey+m3coJYjyxSMhBtfsh3N5UzGa8J1PNsn4XTCht+ZfKbvb4ZeiaKK4sowhWsVAOHqaLbdHVjsq8HWElnha1fkK/LyzRv3DIAfrFUkksu0HUvr5VIpSiYMstK
+    properties :
+     x : 6
+     y : 441
+     width : 886
+     height : 102
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_Test_3
+    identifier : 0x237f8f5c01d32dd9
+    internal_properties : CAAAAAgAAAC/vNZEMowS7NG176VbNrp7Qsd9ts/WIUvLHGhg3INjvvu/Jt5qFQrLDusGuh+6ZfX9LljsfgpMPAEPr4phhqQBdNbFZxWkruZg34w02tATP+a+rF2krPi2NR8Sr3tSnjJ8UyoxPMaw/gyoTapi2hoqTFUDeOvSWaDkpfRCkZW6mYeaLb2NpaKFh2J3y/Gbq47c3ZlFv78MV7Fq41bqdw4smjsuy9efiN12jM5+MnGXQ+F9BB4M34gE6bUZYDOcIQzZu8kqT4T8VnyOm6bpV7F5Ar7DWHT5WIx1D8UTSJVMftmJQzP5p4m7xzZ8S7Gc6ADG7ZvQvDU1OXbi98teqJvjNBdX+MU6kJE1yMTwxZzPJLCZyeKrW6FnMDit+nGfCS1EoAdDunijih1Hl6pTKzn1dhNUhQmC4w4VBvhbndEWcS1VlkmLOExPqUrxkIBwRgRrRtpUezFNTOShGacjO0IAL3mVxRUxtpcfm09v/JXJx3zVDO2B+mwANdJy+6PnZ4rk38A0CPCeZHoiDqY4nQuv8r+jrTuQZ6LkEJ10XTlmSZ3Gx7EOwqQphag4PcXvQpt8ZkMYWlPqjy7qac0RID5MxYD7RpUkTsGEr0eLFnMrKbqJEsOomnT5k0imwmKepis8c7LlGZCdFIqtvPf8O+/UxUlVob7fhf/0mGXndsD0NG8EAygGMmlHJgUNy/sPnA/hFwsVfP4l8uUBEHfP0t6FOIswgISNpVhPDkzQArFoge5XsTQabwPTIzYGiP2aqLKi6H3s0N+zm/ACIhjYoQ0uJ4RA0BJGgCb7ja2f2qV403UjK6yV0aLt1rm//a1Kq/Ks2wDsgPx+hPRpXatbXTWko4eBiLYIi/raUxNwf2rw9XfbhvXQV9mwDWwCTb9L1R46uCCgdtRbJmp4r71OVEamXjo5K+GDHfJPLjuGUYP9H8S+uZPKQGqsZ/YH9vUYej8i3OTQy9hWlw==
+    properties :
+     x : 643
+     y : 549
+     width : 249
+     height : 36
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         // Array of colors
+         arrHTMLColors is array of strings
+         arrHTMLColors.Add("#F48FB1")
+         arrHTMLColors.Add("#C2185B")
+         arrHTMLColors.Add("#64B5F6")
+         arrHTMLColors.Add("#1565C0")
+         arrHTMLColors.Add("#81C784")
+         arrHTMLColors.Add("#2E7D32")
+         
+         MyColor is Color
+         
+         // Gets a random color
+         MyColor									= HTMLToRGB(arrHTMLColors[Random(1, arrHTMLColors.Count)])
+         
+         // Sets the initial color as background color
+         STC_TestBackgroundColor.BackgroundColor	= MyColor
+         
+         // Sets an easily readable color as text color
+         STC_TestBackgroundColor.Color			= MyColor.ReadableColor()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : STC_Case_4
+    identifier : 0x237f8f5c01d42dd9
+    internal_properties : CAAAAAgAAABETgvFdZBXL9wCcofbRD1eFOPZ7aLgdsHvef+evSAuicbaXXfZGRMn8FzbwVFPnpq8bN4GjKJtRYhagVbq2/46IPBKWhzb1W6AdJew/IrzEkiBSTFaTaBflLVY332Hz3PyRnDKtvvFWw4HE4WDFXKSP7R6iv/L45+mmAMmnOVXDTXGGeG21Nt6oJWfkn+nYR7U02kfGSIAZNSuEVsORPblORYZAYiN2O59woqHlSpAV4klx7oDGV9Q/FmRTgKAXAc+ff/WKHPr8DCXAVd4D6n7uG65F4qPxWuIvjaw0qdWHT/H7EhfUq/4KeFKx9Mx2dwal/+glI5MfpCtJyy9qNcVBxdfI5A53iQfcVp37sGR0Dut/OL7LjPgKOgK4lX3btdGkK+BZqQWoTnBUmMctiB4oUhLIbZ8HmIg2c4ru6VUwqX1NnQBnwOy9OTliVQSR9NtVKr9rAvvrfX3x18/0meE8j79uOTV/CPheN60i6ro/t63h+kzkQmayaM+F4p01Umo7AxAPxHFT6XQg7xEKkeJOKUS3ZhsLZK0UPu5C69auPtGn8rBbvZOQHD1mYQ5PuKQ5nNsyLntDOYceLTFvvyQ/6OOV0GoBPLRsIl04wNwkPTE9VRDc/9Pfr+kZV1wvAC5JhPUZzAmo3k86yfGN49rL9C0Kr0KnHSwBq5tvn0OOPhnmFF3S3HmpN8061Ny6jyGbbAjiH9HiOphHd3F1b7fRAYRb8vJWZ04ZK8ZTEqXJ3//NZ20qa8KEFAnpL/sTQuyrGItzKN8omH3sRqVxBBxoA==
+    properties :
+     x : 6
+     y : 603
+     width : 886
+     height : 117
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_Test_4
+    identifier : 0x237f8f5c01d52dd9
+    internal_properties : CAAAAAgAAADov/wZvvRNEnAMfriSEzxQySseE0ddH7sOBHRhewpWTTyvMhXzTQ79FV5YfZ3J8Dc2YdI9EvIv+c4IQ6W7Agw2VyRRNPPe0N4t+4wygVAHxe0mNEK12bL7TksFYG7zvudNri1lomFKoKZ9umbwu6cxCYw/+GLvnE0p5ZWvklMKTBZjLyYBT4OEQLtGoUwdPNam2jQjMIxxWN7b7+cMtaRryFk1fx1GFEFD62hdJddLiPeU08umAIQC8JkpSaW4eMYgiPaOjh7bMV6ZwAZQY/5HEjSuvtjzerfHtdfEIZhUqcJlTa7F801pFUbu4mmwf+nTT5iTiab8e5MtV+CqW50jGEwHQI9bcbHPzCpb8VvQzAbgatnxTmPJRNGVAOtRekjNisu0RCgFi01suQ4KKo1BwIZYHuzgzRWC1QNtYwDA19WZ/+0W8iVHgzh/ls/qMq2QZ5XvvnIHwni3Zmp5SZhfaq9sbKF5bL6zmNSmQ3koVUUp7HTtfbw+OM7wXWlkyLq96y0q64Ag7OTmBXYFxW8IFznDVpLz7nBXUINgkNSLijgLl2BYkENg+F7q/GZUW1/jKOFHfvmduTlMRXwx1zCMtX+umFaNnasZVz8uVd0n/9peOkVYzaCblBkAmYgPLDPpdwRDqzJeVxxRq/9LISJ7UpEYNGvO9BPnG5svHTDoSDDOAit2sEnaoNWDOBLSGDyQl5oFkx6WhIP2Ljx3P57j8oTbs27BS8KJ2lljvs1QDy0+5Y8QL0pL1fjSy/cpgBY9ciStszgR4IDYd2J8Q0L+GKM8eZ1UpPj11QffsFh73k6Yp3rkOBmorVq7/Mm4JQ+EiG2aFAn7C2KOj8SBKqd0HbxdWwsop/y8iDHPvxEiZaesCnArXzri9Gz4+LFaTnBrgKftKXBvUD4=
+    properties :
+     x : 643
+     y : 726
+     width : 249
+     height : 36
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         sText	is string
+         sResult	is string
+         
+         // Initial text
+         sText	= "This is    a plain  TEXT sample    with WORDS    in      UPPERCASE and  series of   spaces."
+         // Applies several transformations to this text:
+         // - remove double spaces,
+         // - changes everything to lowercase
+         // - capitalizes the first letter of each word
+         sResult	= sText.RemoveDoubleSpace().Lower().CapitalizeEachWord()
+         
+         Info("Initial text:", sText, "", "Result text:", sResult)
+         
+         
+         
+         arrIntegers is array of int
+         
+         // Initial array
+         arrIntegers = [1, 4, 6, 8, 2, 9, 3, 7, 2, 3, 6, 4, 7]
+         // Gets the sum of duplicated and triplicated elements
+         nResult is int = arrIntegers.Multiply(3).Distinct().Sum()
+         
+         Info("Initial array: ", ArrayToString(arrIntegers, " , "), "", "Total duplicated and triplicated elements:", nResult)
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      procedure MyWindow()
+      
+      
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+ code_parameters :
+  internal_properties : CAAAAAgAAAB/E2SZRb9VnQU5+PivybZwVafwXhgCAWSYftdyjxWxFx7cb58ydr0ud57ZygZVSIIWCI/Me2Ok
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1363a0d5000fdc4c
+  internal_properties : CAAAAAgAAAA7wCugPa3Llh29up4VO+T++wa3OrewuQ3WP4NJV47trUqhlqE=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

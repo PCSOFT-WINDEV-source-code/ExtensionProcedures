@@ -1,0 +1,239 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Example_Mobile
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Example_Mobile
+ identifier : 0x23c0078b0977ef94
+ internal_properties : CAAAAAgAAACVHEloeQ6mYmfNnIkp249RQs6JFb0w0kQaTo/yipsWlIq5293Brg3/WxRIHQ1bwgb6197X4TwQ4MmkbKAFrEKKZKT4ii8dDGYCV+kjMldo98GXgYmDY+nXc73+EoHHPS8ZXsHs6oQNbgABxyagHnjJi9ftmYt8uHPiq5JErbZWWH35Ou0eWp1g5F7viylXqZ695M9S2w1TOWyPfS2g21XGgbfdP1X6F/pcbF3rOSnyYmujNrG9FVVScNNjbj0CSqFmBgZw10j44PiSLvkhjGR7eR111BAfflcusj+hyE/sQxeOokSnE429HRoCGoVALzpSdA1RjMRBhkzQBropPwWvZsNzzmX1le33MqAcZcIgsxx43Ls79nKDuAK4WKGANVF1YI9EOLs217E36cS4ANsWKnlUR8pFPAoxIF9FaqxJK20xEWfuYyDB67e+Nsbln9nBIRSZcu0TIh5+EOhNtB22AmIQdwto7CnV6Wgy3uGkSpgpZYXkg4WIAiozU1nx+FBnPzmXRuOzk9LSV2usb77c+SoKO1Eqbae1vk32DqHNjXiDdVMH3KkSBF3EOtxLy78IlZ9o76RT2/y1fTqGHzMOaVqybLgGnS068e62BvLHjLFLTQzXwqX4Ym3cQoauPnzigUdRbrGMSk2qzdP2NFTZ3O2FEUhHgrNUdSR+uHOnQX6+DP1qSTJwDGte3tpQSOi1MezZeJnitdl1yBwV9LbSbcdKpcYNmUYaqpxKlRp382LSRs/Px9q/TtS+yLujoZxPUcJyTmZT53eNBQ61aUYL8KRqqr1n1Z0Nul+8B5IHmv1qkMdKNrUVIMQ5svdGK974/S1TaFkX4ulQlUQtfdNZ024TE89tFgDig3ois1080QCAootiaQ==
+ properties :
+  width : 360
+  height : 833
+  heightMin : 897
+ controls :
+  -
+    name : STC_Create_your_own_functions
+    identifier : 0x23c0078d0983f61c
+    internal_properties : CAAAAAgAAABNlg5ABxxRyWn+yiN2HtWUlyVT01oza8YX2hIVVcd0mGWIklwYhIABH3ukdvL0kgyuCcratfnAPJUoGMRrb02xh4OCK+w3yVDc/lNrR+vrseRdKTqo8SfgydD0sWFjjJWf/DlDLhz9M754WFXpHWSJ/k7NFiWOfBLdo70CObonYq7QCj2muASeoB0BVMnVDjchfcSk/UZoDNJE7uEGlFJwVKF6pKw5NfJgCLonuCsvosA14LvcSa+cDvmLQub9/wrMySSfbVHTJIPXJCBmTrP7hfAA3JDdpLrY2ZEeyGh77+NSEpiqwF18WtZCkNiE8mtfy0dUEtBwMXp735WX8nSOjIwG2AQrKJDaKxuMkGnCMqE+ODmcDrteqwlNiJLgKL5TJu5MYhAeeqGEkrCN3jvC4UtPhG+tgg1T+BEWQLY/4hcvKVvyO6apbsU0DRk72pGWN32ZOPm/hZMNZUaJyYrMqVtxYdrTr5tEIK6JcF91mNZdCmnvb3n4Cy/w87mKpktN20FEpoEb0vUal4AcfvUoNbOiUEss2lkNs144jt5v//Ky+YIV1+tyc3utTxvrBIH8GFgbJxnGUZ//EOQ87fOD5FX8dlTbaAPWkwRSLdEaKzWV95DUcbGTlGMWU/zQbjNY49rQMwVhtaXA348ujD+L1CYmwFIjdQTU3SxY1TfUK6RV8+4y5xGddeSk76Sf+oWe5SQoCXxy6bqIOn3wBTCN3h1vl9ZozxSReDjfMbjita+KVs5MrOsrIIkUfPF5aDaJY2Drgl5izi2ri/7MGxMkJkPjuvPeJ1H5BBQZrg/CGBoG0VJXYIwx19LFdnTar2s3akPFAAiSXL89IkhvxapXMedvXlpP335xfhm716kLh4vrJBb6gcd6pl6gHEhROis6aYNenLEXpVlq/0ImVa9DKmfO20bNZgcawTv3mnyAQenrbCbHJoC/1mJLWZDkBWdUDsr4eQ/HEJWWbremr8J44sayPYEwg6SyiJj3Dxuau0dl8qQY0p5hEKKtb3o9alQWGYoYCx3PktuC9eR1m0ZYyQ==
+    properties :
+     x : 8
+     y : 8
+     width : 344
+     height : 445
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_Example_1
+    identifier : 0x23c007a509fa5488
+    internal_properties : CAAAAAgAAAAQXJjh2HZnmWvKqccBtjCxy/1vIlQzJtpLWr1cwXObd9ZRllAGwPVatZWN439Nuylz/ZECgaIzyGxlzTAlMqoti9OrNgSDHWZngd47gOjWS78B04zHchuOkDmepgXOGfuVwq02Cvqvfb7p544bttVr8zAngQyQXZOZOHZEWwutSgZVjtAD693yx/H01cxlYjpmDzBEgLNGCMCecE0ngSpIAvrJj0derHYNYB/6iSiUV29ptbhwHqJ+piZH3oCTXC8R8MUpYCW1ejqok5dggJwcOvgk+ekUQ2bwQfA9xfuFJ61sU+G/+ZU/1gYgH5RjaeK8MDml4Qvg4DpeXtiKt/Qk/DmkA3nhGK0qCMtB5FfKi/xlmn8CIe2RUeSjOn6YVc84N6gs+/g7Q5DScBC5pPHjT8dB/dPkUvrFFqWpJC8F5Abug3AKPylvv6GC5NwOrVpM546xHp3HL4fx4x/m2gdMoIbgtTvTXqU7H9Grl3oj5Fx/2crsWa3DiJcbaYk=
+    properties :
+     x : 8
+     y : 461
+     width : 344
+     height : 27
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_Example_2
+    identifier : 0x23c007b40a1f8ee1
+    internal_properties : CAAAAAgAAADugi7bbhSrwx9E54eUpLHR07i5TrJZWqT1ChVCsSM9pQZdHEqNJg0dG6EDu//1KuxUAFoEZu/2ZKpkmvAVyLCaVCnBRvCrh992znUfGEFUlC6U2NnvfWbJZtxW84MZ8/kzZ560HBwAym4imA0RPjvpaRdtkWiQmLEkYZUP6bYbai3PITz8a8nGM8LUIqltyUCf99yMWHYx5Ye0XEZrtq76hHjZqswXlqxrSE1/3IhCM55QNUkOny4Y5FNrlJyPQRQ0Q0QhnKVPTxWkr2xannDkKaJ8kYuERUUW2l0gHA6oW6GPWGrX+o2AZ8eVJEJt3o+k/xrpGeeA6BOZcDgvENRKOnkVGzpizLqmMokFL21Z47S8SdR+6SOGqXtri6Z9rFfuJxxQaE4OpmgLduhn4D7Bbf3M1uBV0uqZum8xg8Pz2CLCUmTk2RR7DOqcH7Ibbbrk/yCPwvgIcNSE/gi/0Y7F+X9JVrpe6SK0nojF/Ric4Xgx4zCAwR+VXj2xk/M=
+    properties :
+     x : 8
+     y : 583
+     width : 344
+     height : 27
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_Test_2
+    identifier : 0x23c007be0a5db834
+    internal_properties : CAAAAAgAAAAuZvVi+W6DDfDbaiWGtf+NMaeM9GMsWpEx49etkybGaz2yXGzjuwFfwxwfLxaOQMClVjt6bbFWmJzHOqkJuXOoGnnYGpwkRZcA38C06kPof5m6kemxyVYp9N0QsY17nDqgAcGkET8vg3H8oaihVfLP/HB21ieOSC2PaFtEeNNWV0SZhG3X/Y/i5KtdK2X7hMisGdz9BdS5XCg0VokQPYyHAq5To+ury7ICPDMEZ3AZjyVjSwQEhfH3t2INlFD9RWEgEZ6gCSatUKE1HB/u+u3g+s1yKml1gm5hsTcXLOmyTnenBPLE3huLtVo60lMmoFIdQl82YChdMEeicjrAFfz9DkiVDL9pXSWGQX/Ajxi+5xwLMvOLaT3Bpizh+UnJYQEK2qXNHlB5rRYVGApFxPzF6a1tQPnPvkGydO7jUY0I4RkWZJHQvaep3e0D6AmmiJmOytrI13wZngx1viysSzzz6BVnsHuP9ad1MAtGoCRJKunx2IKlHW6IUwCrfhrBxYLVHs4ITFB+9TOlxhOApDwO1OLklEBAtllQUSIfhUXdy77ltcpeerIDuUsl9AW38MPmF0fUXSFxN3XzTgbkzM6FShmtqJ64kN7H36UcaABetGJgJfPFQSoBt5CkFxf/QpN3HfBX9x2kFkitDhhi3+EjiMy82JfZWh7Uq/yxXhrSghLuUM/S4q4W6VwxRe02nnv1wlLCYyJPrA/0bo6rqjzgDEtaRFu2E5XlixfjJ3myi4cHwXHNE6eJKRcG+sjrs2ZYazqlC1x4veUoshcL54N4AzENnBOCgug4qLQMsJivRtwXHx8XG6AeNQo2F6HyoOO2g5k+AO4Rp3Oy35rOms8d/ZAXwrS8xxKEIKF42BKfkSdhJbV3LNnXH+KMMpyRKyfzFF71MppAOMRE3NXll4C816r1ItBS1A/RofLp
+    properties :
+     x : 8
+     y : 503
+     width : 344
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         dtMyDateTime is datetime
+         Info("Long format: " + dtMyDateTime.Format(),"", "Short format: " + dtMyDateTime.Format(True))
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Test_3
+    identifier : 0x23c007be0a5fb843
+    internal_properties : CAAAAAgAAAA6vEqS4u9cBLGbPWk2lreMrq24skMRS1arRx8Qfl0UjBSB/u5/APOjv6EazdDlzCL6FtnQ/sTPUr1NsILuHgcjV4P56EjEmpNiDQImK+Q2Cc4d66xuWUdmj5U1l1FyYdKB/3R9NhNw7Vgv5UKWx4KRK8sBlTl9tCPduBrgIEB/XLw3EfQdbcnE952XKu4APIisNe+XXkCAI6xGF3Thp2eoDx08Avogfnv41NGNpcmlMHTtdKfBkUGua+TD/eiofrzH+nHN9vQRniJCmQbyX4TkpUQjqEod3XH/qHNKw6XwUNOdhmPj2j8bTQQgiJ7veievtL5bpFupwf3J/VvOSXMrhvWQxXBNAISMzKx+2JuAqskjLl4LY1LHp1WhhDqjv/gVZSMBcJxe+gs25GKfhZ9NVp7OcLUWlBBxL3ieFr+LVspzOKw3OATg/pCLuXy25fUA2d2KWfFUG3seI6ezeNJjYn1xoESEXsUqZg/1EMcottkuyFbI8MucoozltapMTJhHPyJ6xeVN/T73Jr4uuxu6TBc+/OevIQ+fETzqW5wOd2a6J6hv/38ZtEGV99n2E3nwfNeSrs6Ou0QV4m/mdaNLpH4XhENZ7YKk89sbouNdfthV3X00WJ9xoo4olte8GVk5KpBltOYpMFOZ+CtIZFoNjsHuai4Mp3Tztwow9Ec/9NjV2u9z15/QUKB/hBOFMXtZK/Ze/P+y+tzkKBl/85ZuHLikPCCn9lOwuVNup97fb18GY5N6cG5rwLd4SQy0ehDG0GSv6ouNF466Wtj7hFbEg2Jr4Na9K4wZluXAd6QBjGL48wJrRd61M6QinIk9n5Dy3m6pxZPa9lvKXhKRWnPgOmq1cO/jMtfXw8aQh1sN1mbT8K3w1LW988OzNM+1TZKw8aJRvYnbgi/8B4faM0TTL6mUKarfnpkHLd8n15Vl3Qlmq5w0VJ8=
+    properties :
+     x : 8
+     y : 618
+     width : 344
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         // Array of colors
+         arrHTMLColors is array of strings
+         arrHTMLColors.Add("#F48FB1")
+         arrHTMLColors.Add("#C2185B")
+         arrHTMLColors.Add("#64B5F6")
+         arrHTMLColors.Add("#1565C0")
+         arrHTMLColors.Add("#81C784")
+         arrHTMLColors.Add("#2E7D32")
+         
+         MyColor is Color
+         
+         // Gets a random color
+         MyColor									= HTMLToRGB(arrHTMLColors[Random(1, arrHTMLColors.Count)])
+         
+         // Sets the initial color as background color
+         STC_TestBackgroundColor.BackgroundColor	= MyColor
+         
+         // Sets an easily readable color as text color
+         STC_TestBackgroundColor.Color			= MyColor.ReadableColor()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : STC_TestBackgroundColor
+    identifier : 0x23c007be0a61b853
+    internal_properties : CAAAAAgAAAA4n2BE8wUco6f0QXa8CIHq8ls9jrVbZdnvrXtrNOt9OcvaUWHGl5XZJtRJsNWQOYwATFJAWagiTCcpPuGvCTb8rO+mZwRjdvR7a8tw6+zrthwR1PlfSa5VHSvepJVlYpnSjLbkDspDwTICzcKLFggix2QH1FGALC9eIsJmZis/pEzBuV2eDZoC/gVFb3HpLi9x6WHsuOboMR4bryCVSrMUTgMW6WaSEjVirM0tLuIhNpo4zXuXxMgPaj3FmXZebszaehv6oNxs75ylOiaRRwBkPHHH4Pv2Cq128wBr6gQ+fMCA4iVnJtCzfE1DZIDEnCkVDztbfmPIlFvQXA91uqd6+RIC17iZeFJwcRC0v1FjKfTWlnlY8oAneCxd8nZWOx6JGP5az+1hq6EY6wykink+ZEdmc0wtbS6feLCDnbnvemKtFsyX9j00DPe/UVgsDkKY+B5bqqbrJFEtcXjmb3Uvpxm5i3Je1O9sXGPJffvsgILh4CglBNr1UqO147QKu3bWst2Vu77snoAxOQ==
+    properties :
+     x : 8
+     y : 674
+     width : 344
+     height : 36
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_Test_4
+    identifier : 0x23c007be0a63b853
+    internal_properties : CAAAAAgAAACZWhApPkemm1pmNmPSfN/tPxKCDoF8LELE+YXF1Ncil7QSAKft0iXsCLj6Ps+ogoJw1p0lt1l/7VIwM0G4MSNcePPlwKywumSBRCoyrwym4P3pNEVxvutwGM2uRMhrWMqxJXQyTM67yy8q6TroFhhyDnqpmDoWO1BwhtYPUmgeztcKNS+aIRnIHY6vyhF/X8PHF6oJT33W/qprNfVHEe6kqX+lQ4g+aSzpzn6tC3bG0Qo+ksPSu1gjgz6MotKnZgNZ/SUTgP3wiZAt48FCLGfAj7+nWZz7JtfGwFR3gik03e/I+y7leHAy/WnGlCITsusOW/ZAMa2ilmQSKJmsGsILwbRvSfUBWw7/f6lURVmjHoZeuQgQwOgtUe5F/wS8U1awGSYzOYq1XH8/uA/ZeABfHunNiSIbsdjs3M0wn0yLWH2SY0tTD9yTVR41sbUJEfNDzrHPad6wF1LxQZhtWZc3fFZfnWMQkpvYincqizO65HNquJPLfp/OzNJHWBNiuq5BhfTlNiVrtVKZXFWzM7UMkgfaLWYzv8Nv4TihFNii4SRIeVPEyxkXahfPyMQGYStutk3nRXDsGQptTpDNXWGPdP6D/TKTM/BC4S1eW4P9YN453fL3zg/5Hl4UxZCQASVJdBZ619YVYiV73jB3xDhvdAVWj/1EixR/1QSha3NZtmaZwnL02c9g3NoNC1DhSXnzHeTLS2PwEEq2diYCbQtbKxVA/Wt3w2YC0hmL5OtXKxzmsCuhCvO0l9IM5gjbbTTlyc8QG8abX4bMSazhv1sF0WcxuLtHv2T3CF0lygBiK4A0O7efZHW6efqid4amfUIzS7D/HhvY+TjEbVzwk9HkWrgB37aDtXWdb+4U+cW7buNOup1k9+o2DdghegqS7A==
+    properties :
+     x : 8
+     y : 777
+     width : 344
+     height : 48
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         
+         sText	is string
+         sResult	is string
+         
+         // Initial text
+         sText	= "This is    a plain  TEXT sample    with WORDS    in      UPPERCASE and  series of   spaces."
+         // Applies several transformations to this text:
+         // - remove double spaces,
+         // - changes everything to lowercase
+         // - capitalizes the first letter of each word
+         sResult	= sText.RemoveDoubleSpace().Lower().CapitalizeEachWord()
+         
+         Info("Initial text:", sText, "", "Result text:", sResult)
+         
+         
+         
+         arrIntegers is array of int
+         
+         // Initial array
+         arrIntegers = [1, 4, 6, 8, 2, 9, 3, 7, 2, 3, 6, 4, 7]
+         // Gets the sum of duplicated and triplicated elements
+         nResult is int = arrIntegers.Multiply(3).Distinct().Sum()
+         
+         Info("Initial array: ", ArrayToString(arrIntegers, " , "), "", "Total duplicated and triplicated elements:", nResult)
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_Example_3
+    identifier : 0x23c007f50b5c8ecd
+    internal_properties : CAAAAAgAAAD0A2Z5Aj4KHqgVP80mfTW7Y3Ch3d+0GD3uTyf88kecDyOVSvoVZ6mX2zda5pag9ME6BHYp38c5/f0KXHJdg5CqKbPwPQWQGuU7oBXYq0Q1AAuhqW2Z3vIRuwcJ93TFdXAzrUO5gwvGE26XXuoxeeAi+pXqCW85nPJb1lLcHsxNJUxT9wzOmGVF79icn63DpQXns9D9D3Zy6dm2jTwjRWwC9c1n3dHPEY3R2odBgCwlKD0nRBeMflaBsngn+ZoPgXx463Rm2c0kHPZFYIe3lft9QKmLhGLlZAbXA97j3+27eh4MHfdiHap7QmIobeGgHb41qE+mXHgfBRwS6f/wX4f/Scg4mL/nF/mB3cTSzAKyqPubNGfpTIj53C7W1E/gw17vYAUHrefddds8qauqjDeUKIDOd0cCo0eUxs+3/hiilRnZg6R+kLd/9D0QsSlkZfRFmjUggHtkWn2FaOLit84n13wvrYXI07Xo+Z7H+LfEZlh3IJVJT0PIOp5zHchkw25SujEain0vBFGGSnPn
+    properties :
+     x : 8
+     y : 742
+     width : 344
+     height : 27
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x23c0078b0978ef94
+  internal_properties : CAAAAAgAAAB5OyHgFmYi8WYlhC/bkJWBmEs1/T0g4QHP3hv2lDTe2DZvVakolykmpH6S3dFX80EJG1V8ddVHDLdxGnVETgtxFt6R3AaVSJvO+FLLwhHVWHo1t0Jo8nYYz3uWzvuL5aadkIE1tzER4DXPykIP+huxSFlENJTIoxx2Fw2C3lm6wa8+nlMhmTHbqhc1Xa1KCexdosatc2lB6sakOo3TaWPZ/oo1LmIaFpERa4fxfIFF1L1SWhZLf/RHpdMwfmx6mPAb6Lg5O0/I9OlxYITX2pzkvyTIn6NBfLJe1XCXmDpI9vmRn6SX4dVdb8amcoKdCF+q94a0Zc9q7w==
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x29f8144500a4e5ba
+  internal_properties : CAAAAAgAAADgMVTORwj2Mt8z/R5WRL0mTVIMDO11ij5YdBwcO3ZAw8tWdEBL95DgWGGgMGBRKql5dANp5Vg/qpNyJvJQ8sIrr6GzC+masJIwyV5P7DpW0go2kGsf4EvdW1eqlu6V7I5EHVrMjd02cTaXwP0dbd1DSbdsd/Wxk0ScMGI7Z0eDsGOMLRfieoTYskOjcLtA7tgFoR24z+3d3zH3Bloaoqj6XKllvOzqHQUKs5ikiJtsiZpXF9leDIYykRzjnC4k4qQVjthAFpugw+diG+HfnEMv+L/rU3DRjlIiDq+0aeUP
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABKff4sxysR+9kg8GIJ708iDvb5GJxqytSUKL54fomJ9xlu42EWUFv/+en+BSQDmdB2krqVslwL/1eyQDVw8sffQk7lF3aDfZNzV/+zROsnKAy1jaSejRR5UgML
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaFenêtre()
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+ code_parameters :
+  internal_properties : CAAAAAgAAAB/E2SZRb9VnQU5+PivybZwVafwXhgCAWSYftdyjxWxFx7cb58ydr0ud57ZygZVSIIWCI/Me2Ok
+  original_name : _11
+resources :
+ string_res :
+  identifier : 0x13c0075c007437ae
+  internal_properties : CAAAAAgAAAA7wCugPa3Llh29up4VO+T++wa3OrewuQ3WP4NJV47trUqhlqE=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
